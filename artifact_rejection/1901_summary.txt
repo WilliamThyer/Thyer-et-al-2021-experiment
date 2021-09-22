@@ -1,0 +1,309 @@
+Running wst1901_01
+
+Total Trials Rejected: 601
+Percent Trials Rejected: 35.80%
+
+Setsize 1:276
+Setsize 2:268
+Setsize 3:270
+Setsize 4:265
+
+Running wst1901_02
+
+Total Trials Rejected: 523
+Percent Trials Rejected: 31.10%
+
+Setsize 1:235
+Setsize 2:278
+Setsize 3:307
+Setsize 4:337
+
+Running wst1901_03
+
+Total Trials Rejected: 117
+Percent Trials Rejected: 7.00%
+
+Setsize 1:396
+Setsize 2:395
+Setsize 3:393
+Setsize 4:379
+
+Running wst1901_04
+
+Total Trials Rejected: 397
+Percent Trials Rejected: 23.60%
+
+Setsize 1:302
+Setsize 2:321
+Setsize 3:337
+Setsize 4:323
+
+Running wst1901_05
+
+Total Trials Rejected: 134
+Percent Trials Rejected: 8.00%
+
+Setsize 1:383
+Setsize 2:389
+Setsize 3:388
+Setsize 4:386
+
+Running wst1901_06
+
+Total Trials Rejected: 104
+Percent Trials Rejected: 6.20%
+
+Setsize 1:390
+Setsize 2:400
+Setsize 3:397
+Setsize 4:389
+
+Running wst1901_07
+
+Total Trials Rejected: 107
+Percent Trials Rejected: 6.40%
+
+Setsize 1:387
+Setsize 2:389
+Setsize 3:394
+Setsize 4:403
+
+Running wst1901_08
+
+Total Trials Rejected: 245
+Percent Trials Rejected: 14.60%
+
+Setsize 1:347
+Setsize 2:357
+Setsize 3:361
+Setsize 4:370
+
+Running wst1901_09
+
+Total Trials Rejected: 103
+Percent Trials Rejected: 6.10%
+
+Setsize 1:388
+Setsize 2:401
+Setsize 3:395
+Setsize 4:393
+
+Running wst1901_10
+
+Total Trials Rejected: 760
+Percent Trials Rejected: 45.20%
+
+Setsize 1:229
+Setsize 2:235
+Setsize 3:219
+Setsize 4:237
+
+Running wst1901_11
+
+Total Trials Rejected: 267
+Percent Trials Rejected: 15.90%
+
+Setsize 1:353
+Setsize 2:354
+Setsize 3:358
+Setsize 4:348
+
+Running wst1901_12
+
+Total Trials Rejected: 182
+Percent Trials Rejected: 12.60%
+
+Setsize 1:310
+Setsize 2:310
+Setsize 3:320
+Setsize 4:318
+
+Running wst1901_13
+
+Total Trials Rejected: 414
+Percent Trials Rejected: 24.60%
+
+Setsize 1:316
+Setsize 2:306
+Setsize 3:318
+Setsize 4:326
+
+Running wst1901_14
+
+Total Trials Rejected: 477
+Percent Trials Rejected: 28.40%
+
+Setsize 1:295
+Setsize 2:289
+Setsize 3:313
+Setsize 4:306
+
+Running wst1901_15
+
+Total Trials Rejected: 293
+Percent Trials Rejected: 17.40%
+
+Setsize 1:340
+Setsize 2:344
+Setsize 3:359
+Setsize 4:344
+
+Running wst1901_16
+
+Total Trials Rejected: 139
+Percent Trials Rejected: 8.30%
+
+Setsize 1:380
+Setsize 2:386
+Setsize 3:394
+Setsize 4:381
+
+Running wst1901_17
+
+Total Trials Rejected: 129
+Percent Trials Rejected: 7.70%
+
+Setsize 1:383
+Setsize 2:390
+Setsize 3:391
+Setsize 4:387
+
+Running wst1901_18
+
+Total Trials Rejected: 477
+Percent Trials Rejected: 28.40%
+
+Setsize 1:306
+Setsize 2:295
+Setsize 3:305
+Setsize 4:297
+
+Running wst1901_19
+
+Total Trials Rejected: 549
+Percent Trials Rejected: 32.70%
+
+Setsize 1:279
+Setsize 2:277
+Setsize 3:295
+Setsize 4:280
+
+Running wst1901_20
+
+Total Trials Rejected: 413
+Percent Trials Rejected: 24.60%
+
+Setsize 1:310
+Setsize 2:316
+Setsize 3:315
+Setsize 4:326
+
+Running wst1901_21
+
+Total Trials Rejected: 502
+Percent Trials Rejected: 29.90%
+
+Setsize 1:261
+Setsize 2:305
+Setsize 3:311
+Setsize 4:301
+
+Running wst1901_22
+
+Total Trials Rejected: 308
+Percent Trials Rejected: 18.30%
+
+Setsize 1:348
+Setsize 2:353
+Setsize 3:327
+Setsize 4:344
+
+Running wst1901_23
+
+Total Trials Rejected: 373
+Percent Trials Rejected: 22.20%
+
+Setsize 1:347
+Setsize 2:330
+Setsize 3:319
+Setsize 4:311
+
+Running wst1901_24
+
+Total Trials Rejected: 282
+Percent Trials Rejected: 16.80%
+
+Setsize 1:327
+Setsize 2:343
+Setsize 3:365
+Setsize 4:363
+
+Running wst1901_25
+
+Total Trials Rejected: 642
+Percent Trials Rejected: 38.20%
+
+Setsize 1:213
+Setsize 2:242
+Setsize 3:274
+Setsize 4:309
+
+Running wst1901_26
+
+Total Trials Rejected: 327
+Percent Trials Rejected: 24.30%
+
+Setsize 1:262
+Setsize 2:252
+Setsize 3:255
+Setsize 4:250
+
+Running wst1901_27
+
+Total Trials Rejected: 245
+Percent Trials Rejected: 14.60%
+
+Setsize 1:355
+Setsize 2:365
+Setsize 3:359
+Setsize 4:356
+
+Running wst1901_28
+
+Total Trials Rejected: 432
+Percent Trials Rejected: 25.70%
+
+Setsize 1:262
+Setsize 2:330
+Setsize 3:338
+Setsize 4:318
+
+Running wst1901_29
+
+Total Trials Rejected: 259
+Percent Trials Rejected: 15.40%
+
+Setsize 1:342
+Setsize 2:363
+Setsize 3:360
+Setsize 4:356
+
+Running wst1901_30
+
+Total Trials Rejected: 596
+Percent Trials Rejected: 35.50%
+
+Setsize 1:259
+Setsize 2:249
+Setsize 3:284
+Setsize 4:292
+
+Running wst1901_31
+
+Total Trials Rejected: 381
+Percent Trials Rejected: 22.70%
+
+Setsize 1:321
+Setsize 2:321
+Setsize 3:314
+Setsize 4:343

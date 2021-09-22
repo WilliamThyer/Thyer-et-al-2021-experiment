@@ -1,0 +1,217 @@
+
+Running wst1901_01
+
+Setsize 1:347
+Setsize 2:329
+Setsize 3:348
+Setsize 4:345
+
+Running wst1901_02
+
+Setsize 1:233
+Setsize 2:275
+Setsize 3:299
+Setsize 4:332
+
+Running wst1901_03
+
+Setsize 1:392
+Setsize 2:392
+Setsize 3:385
+Setsize 4:370
+
+Running wst1901_04
+
+Setsize 1:295
+Setsize 2:318
+Setsize 3:328
+Setsize 4:318
+
+Running wst1901_05
+
+Setsize 1:348
+Setsize 2:352
+Setsize 3:339
+Setsize 4:353
+
+Running wst1901_06
+
+Setsize 1:385
+Setsize 2:398
+Setsize 3:393
+Setsize 4:387
+
+Running wst1901_07
+
+Setsize 1:384
+Setsize 2:387
+Setsize 3:393
+Setsize 4:402
+
+Running wst1901_08
+
+Setsize 1:343
+Setsize 2:357
+Setsize 3:353
+Setsize 4:366
+
+Running wst1901_09
+
+Setsize 1:383
+Setsize 2:391
+Setsize 3:386
+Setsize 4:388
+
+Running wst1901_10
+
+Setsize 1:317
+Setsize 2:316
+Setsize 3:304
+Setsize 4:312
+
+Running wst1901_11
+
+Setsize 1:333
+Setsize 2:334
+Setsize 3:344
+Setsize 4:329
+
+Running wst1901_12
+
+Setsize 1:309
+Setsize 2:309
+Setsize 3:319
+Setsize 4:317
+
+Running wst1901_13
+
+Setsize 1:314
+Setsize 2:306
+Setsize 3:316
+Setsize 4:325
+
+Running wst1901_14
+
+Setsize 1:317
+Setsize 2:306
+Setsize 3:329
+Setsize 4:319
+
+Running wst1901_15
+
+Setsize 1:326
+Setsize 2:331
+Setsize 3:344
+Setsize 4:333
+
+Running wst1901_16
+
+Setsize 1:363
+Setsize 2:371
+Setsize 3:378
+Setsize 4:368
+
+Running wst1901_17
+
+Setsize 1:370
+Setsize 2:382
+Setsize 3:377
+Setsize 4:381
+
+Running wst1901_18
+
+Setsize 1:304
+Setsize 2:291
+Setsize 3:302
+Setsize 4:292
+
+Running wst1901_19
+
+Setsize 1:274
+Setsize 2:273
+Setsize 3:290
+Setsize 4:276
+
+Running wst1901_20
+
+Setsize 1:302
+Setsize 2:305
+Setsize 3:304
+Setsize 4:311
+
+Running wst1901_21
+
+Setsize 1:256
+Setsize 2:300
+Setsize 3:304
+Setsize 4:296
+
+Running wst1901_22
+
+Setsize 1:335
+Setsize 2:342
+Setsize 3:316
+Setsize 4:328
+
+Running wst1901_23
+
+Setsize 1:337
+Setsize 2:321
+Setsize 3:312
+Setsize 4:307
+
+Running wst1901_24
+
+Setsize 1:322
+Setsize 2:335
+Setsize 3:356
+Setsize 4:356
+
+Running wst1901_25
+
+Setsize 1:213
+Setsize 2:242
+Setsize 3:274
+Setsize 4:307
+
+Running wst1901_26
+
+Setsize 1:303
+Setsize 2:295
+Setsize 3:291
+Setsize 4:292
+
+Running wst1901_27
+
+Setsize 1:350
+Setsize 2:363
+Setsize 3:356
+Setsize 4:352
+
+Running wst1901_28
+
+Setsize 1:244
+Setsize 2:315
+Setsize 3:321
+Setsize 4:300
+
+Running wst1901_29
+
+Setsize 1:337
+Setsize 2:360
+Setsize 3:359
+Setsize 4:348
+
+Running wst1901_30
+
+Setsize 1:253
+Setsize 2:246
+Setsize 3:277
+Setsize 4:284
+
+Running wst1901_31
+
+Setsize 1:316
+Setsize 2:315
+Setsize 3:308
+Setsize 4:339

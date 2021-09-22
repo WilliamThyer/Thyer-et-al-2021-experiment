@@ -1,0 +1,140 @@
+
+Running wst1902_01
+
+Setsize 1:404
+Setsize 2:405
+Setsize 3:401
+Setsize 4:405
+
+Running wst1902_02
+
+Setsize 1:393
+Setsize 2:391
+Setsize 3:387
+Setsize 4:397
+
+Running wst1902_03
+
+Setsize 1:325
+Setsize 2:337
+Setsize 3:325
+Setsize 4:317
+
+Running wst1902_04
+
+Setsize 1:324
+Setsize 2:331
+Setsize 3:324
+Setsize 4:349
+
+Running wst1902_05
+
+Setsize 1:379
+Setsize 2:385
+Setsize 3:384
+Setsize 4:385
+
+Running wst1902_06
+
+Setsize 1:385
+Setsize 2:391
+Setsize 3:394
+Setsize 4:396
+
+Running wst1902_07
+
+Setsize 1:314
+Setsize 2:323
+Setsize 3:330
+Setsize 4:324
+
+Running wst1902_08
+
+Setsize 1:327
+Setsize 2:304
+Setsize 3:314
+Setsize 4:313
+
+Running wst1902_09
+
+Setsize 1:363
+Setsize 2:368
+Setsize 3:380
+Setsize 4:394
+
+Running wst1902_10
+
+Setsize 1:354
+Setsize 2:370
+Setsize 3:367
+Setsize 4:359
+
+Running wst1902_11
+
+Setsize 1:363
+Setsize 2:380
+Setsize 3:387
+Setsize 4:387
+
+Running wst1902_12
+
+Setsize 1:282
+Setsize 2:315
+Setsize 3:319
+Setsize 4:329
+
+Running wst1902_13
+
+Setsize 1:354
+Setsize 2:353
+Setsize 3:348
+Setsize 4:349
+
+Running wst1902_14
+
+Setsize 1:353
+Setsize 2:354
+Setsize 3:349
+Setsize 4:326
+
+Running wst1902_15
+
+Setsize 1:343
+Setsize 2:341
+Setsize 3:332
+Setsize 4:340
+
+Running wst1902_16
+
+Setsize 1:368
+Setsize 2:380
+Setsize 3:378
+Setsize 4:366
+
+Running wst1902_17
+
+Setsize 1:284
+Setsize 2:295
+Setsize 3:315
+Setsize 4:311
+
+Running wst1902_18
+
+Setsize 1:353
+Setsize 2:378
+Setsize 3:365
+Setsize 4:377
+
+Running wst1902_19
+
+Setsize 1:303
+Setsize 2:304
+Setsize 3:307
+Setsize 4:279
+
+Running wst1902_20
+
+Setsize 1:265
+Setsize 2:269
+Setsize 3:262
+Setsize 4:283
