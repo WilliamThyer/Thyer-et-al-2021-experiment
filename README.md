@@ -16,7 +16,7 @@ Experiment 2. Orientation change deteciton task.
 
 Experiment 3. Conjunction change detection task.
 
-# Preprocessing
+# Artifact rejection
 
 ## eegreject.m
 
